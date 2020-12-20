@@ -1,1 +1,1 @@
-console.log("Mai prem hu");
+console.log("HAHAHA");
