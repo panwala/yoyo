@@ -1,1 +1,5 @@
-console.log("Hello 123 2124");
+<<<<<<< Updated upstream
+console.log("hello 123")
+=======
+console.log("Hello123panwalaa");
+>>>>>>> Stashed changes
